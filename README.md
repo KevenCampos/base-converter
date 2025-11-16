@@ -4,6 +4,7 @@
 - **Curso:** Ciência da Computação - Algoritmos 1
 - **Instituição:** FAM (Faculdade de Americana)
 - **Tipo:** Projeto Acadêmico
+- **Video demonstrativo:** https://youtu.be/Ssv73eH43aE
 
 ## Visão Geral do Projeto
 
