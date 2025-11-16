@@ -1,0 +1,65 @@
+# Compilação / Artefatos
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.lo
+*.la
+*.lai
+
+# Binários e builds
+/build/
+/bin/
+/dist/
+/target/
+/Debug/
+/Release/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+*.swp
+*.swo
+*~
+*.d
+
+# Arquivos de dependências geradas
+*.dSYM/
+*.dylib
+
+# Makefile automáticos
+Makefile.in
+Makefile~
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# Gerados por configure/autotools
+configure
+config.h
+config.log
+config.status
+aclocal.m4
+autom4te.cache/
+compile
+depcomp
+install-sh
+missing
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio / CLion / IDEs em geral
+.idea/
+*.iml
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini

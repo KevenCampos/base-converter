@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\processing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:menus\\processing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\cache.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:utils\\cache.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:utils\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:utils\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\cache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:utils\\cache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\history.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:menus\\history.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\main_menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:menus\\main_menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D4A92E-5FAA-496F-B4D0-39D60F8CD059}|projeto-algoritimos.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cache.h",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\cache.h",
+              "RelativeDocumentMoniker": "utils\\cache.h",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\cache.h",
+              "RelativeToolTip": "utils\\cache.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-16T14:57:06.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "utils.h",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\utils.h",
+              "RelativeDocumentMoniker": "utils\\utils.h",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\utils.h",
+              "RelativeToolTip": "utils\\utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-16T14:26:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "utils.c",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\utils.c",
+              "RelativeDocumentMoniker": "utils\\utils.c",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\utils.c",
+              "RelativeToolTip": "utils\\utils.c",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T14:25:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cache.c",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\cache.c",
+              "RelativeDocumentMoniker": "utils\\cache.c",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\utils\\cache.c",
+              "RelativeToolTip": "utils\\cache.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T14:24:31.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "history.c",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\history.c",
+              "RelativeDocumentMoniker": "menus\\history.c",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\history.c",
+              "RelativeToolTip": "menus\\history.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T14:24:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "processing.c",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\processing.c",
+              "RelativeDocumentMoniker": "menus\\processing.c",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\processing.c",
+              "RelativeToolTip": "menus\\processing.c",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T14:23:48.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main_menu.c",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\main_menu.c",
+              "RelativeDocumentMoniker": "menus\\main_menu.c",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\menus\\main_menu.c",
+              "RelativeToolTip": "menus\\main_menu.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T14:23:06.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\keven\\OneDrive\\Documentos\\Trabalho FAM\\projeto-algoritimos\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T14:22:57.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
