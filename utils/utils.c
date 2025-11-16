@@ -110,3 +110,23 @@ char* ConvertDecimalToHex(unsigned int decimalNumber) {
 
     return buffer;
 }
+
+void SortProcessingData(ProcessingData* p) {
+    for (int i = 0; i < p->inputVectorLength - 1; i++) {
+        for (int j = 0; j < p->inputVectorLength - i - 1; j++) {
+            if (p->vectorDecimalInputs[j] > p->vectorDecimalInputs[j + 1]) {
+
+                // Troca o decimal
+                int tempDec = p->vectorDecimalInputs[j];
+                p->vectorDecimalInputs[j] = p->vectorDecimalInputs[j + 1];
+                p->vectorDecimalInputs[j + 1] = tempDec;
+
+                // Troca o convertido (string)
+                char tempStr[128];
+                strcpy(tempStr, p->vectorConvertedInputs[j]);
+                strcpy(p->vectorConvertedInputs[j], p->vectorConvertedInputs[j + 1]);
+                strcpy(p->vectorConvertedInputs[j + 1], tempStr);
+            }
+        }
+    }
+}

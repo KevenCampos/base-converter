@@ -132,17 +132,21 @@ static void ProcessingMethod() {
     const char* typeStr = (currentProcessing->conversionType == BINARY) ? "Binario" :
         (currentProcessing->conversionType == OCTAL) ? "Octal" : "Hexadecimal";
 
+	// Ordena os dados crescente a partir do decimal
+	SortProcessingData(currentProcessing);
 
     while (1) {
 		system("clear||cls");
         printf("# Resultados da conversao para %s:\n", typeStr);
-        printf("tamanho do vetor: %d\n", currentProcessing->inputVectorLength);
+
         for (int i = 0; i < currentProcessing->inputVectorLength; i++) {
             printf("Decimal: %d -> %s: %s\n",
                 currentProcessing->vectorDecimalInputs[i],
                 typeStr,
                 currentProcessing->vectorConvertedInputs[i]);
         }
+
+        // Ordena pra mim em ordem crescente, quero que seja crescente a partir do vectorDecimalInputs
 
         printf("\nConversao concluida. Digite 'back' para voltar\n");
         scanf_s("%99s", userInput, (unsigned)_countof(userInput));

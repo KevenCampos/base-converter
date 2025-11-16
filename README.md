@@ -50,8 +50,9 @@ This is a console-based application that converts decimal numbers to different n
 2. User enters decimal numbers (validated)
 3. User selects conversion type (Binary/Octal/Hexadecimal)
 4. System converts all numbers
-5. Results are displayed
-6. User returns to main menu
+5. Sort the results in ascending order, starting from the decimal point.
+6. Results are displayed
+7. User returns to main menu
 
 ### History Flow
 - Displays all previous processing cycles
