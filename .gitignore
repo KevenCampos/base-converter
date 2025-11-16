@@ -1,65 +1,60 @@
-# Compilação / Artefatos
+# Pastas de build
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Arquivos de cache e temporários
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.ipch
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Diretório de configurações do Visual Studio
+.vs/
+
+# Arquivos de log e outros temporários
+*.log
+*.tlog/
+*.lastbuildstate
+
+# Outros arquivos desnecessários
+*.ncb
+*.sbr
+*.idb
+*.pdb
+*.ipdb
+*.iobj
+*.iopt
+*.pch
+*.rsp
 *.o
 *.obj
-*.so
-*.dll
 *.exe
+*.dll
+*.lib
+*.so
 *.out
 *.a
-*.lib
 *.lo
 *.la
 *.lai
-
-# Binários e builds
-/build/
-/bin/
-/dist/
-/target/
-/Debug/
-/Release/
-
-# Arquivos temporários
-*.tmp
-*.log
-*.cache
-*.swp
-*.swo
-*~
-*.d
-
-# Arquivos de dependências geradas
 *.dSYM/
 *.dylib
 
-# Makefile automáticos
-Makefile.in
-Makefile~
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-install_manifest.txt
-
-# Gerados por configure/autotools
-configure
-config.h
-config.log
-config.status
-aclocal.m4
-autom4te.cache/
-compile
-depcomp
-install-sh
-missing
-
-# Visual Studio Code
+# IDEs alternativas
+.idea/
+*.iml
 .vscode/
 *.code-workspace
 
-# Visual Studio / CLion / IDEs em geral
-.idea/
-*.iml
-
-# Arquivos do Windows
+# Windows
 Thumbs.db
 Desktop.ini
