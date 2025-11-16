@@ -11,10 +11,9 @@ static void ProcessingMethod() {
 	// Vamos utilizar avariavel userInput para armazenar a entrada do usuário como uma string de até 99 caracteres
     char userInput[100] = "";
 
-    printf("Quantos numeros vocedeseja inserir? ('back' para voltar)\n");
+    printf("Quantos numeros voce deseja inserir? ('back' para voltar)\n");
     while (1)
     {
-
 
 	    // Lê a entrada do usuário como uma string e armazena em userInput
         scanf_s("%99s", userInput, (unsigned)_countof(userInput));
