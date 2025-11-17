@@ -51,7 +51,7 @@ Esta é uma aplicação baseada em console que converte números decimais para d
 2. Usuário insere números decimais (validados)
 3. Usuário seleciona o tipo de conversão (Binário/Octal/Hexadecimal)
 4. Sistema converte todos os números
-5. Ordena os resultados em ordem crescente, a partir da vírgula decimal.
+5. Ordena os resultados em ordem crescente a partir da entrada do usuário
 6. Resultados são exibidos
 7. Usuário retorna ao menu principal
 
