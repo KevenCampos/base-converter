@@ -48,7 +48,7 @@ Esta é uma aplicação baseada em console que converte números decimais para d
 
 ### Fluxo de Processamento
 1. Usuário especifica a quantidade de números a inserir
-2. Usuário insere números decimais (validados)
+2. Usuário insere números os numeros (validados)
 3. Usuário seleciona o tipo de conversão (Binário/Octal/Hexadecimal)
 4. Sistema converte todos os números
 5. Ordena os resultados em ordem crescente a partir da entrada do usuário
